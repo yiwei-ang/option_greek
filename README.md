@@ -6,4 +6,5 @@ Option Greek for Vanilla and Binary.
     - Allocating Vanna to Risk-Reversal.
     - Allocating Volga to Butterfly.
 * V1 - An interactive HTML comparison of greeks between vanilla and binary options.
+  - [greek.html](https://github.com/yiwei-ang/option_greek/blob/master/greek.html)
   - Download and to view it, please use Google Chrome, thanks!
