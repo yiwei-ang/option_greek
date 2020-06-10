@@ -8,4 +8,7 @@ Option Greek for Vanilla and Binary.
     - Allocating Volga to Butterfly.
 * V1 - An interactive HTML comparison of greeks between vanilla and binary options.
   - [greek.html](https://github.com/yiwei-ang/option_greek/blob/master/greek.html)
-  - Download and to view it, please use Google Chrome, thanks!
+  - Download by cloning the repo into your desired directory:
+    ```cd <PATH TO DIRECTORY>```
+    ```git clone https://github.com/yiwei-ang/option_greek.git```
+   - Open `greek.html` in Google Chrome to view it.
